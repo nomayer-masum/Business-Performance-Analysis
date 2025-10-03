@@ -36,4 +36,8 @@ exclusive deals, while encouraging upselling in রফিক জেনা
 - Provide additional support and incentives to Sajeeb Enterprise, the top department by order volume, to sustain 
 growth and improve order value.
 
+###  Excel Dashboard
+![Business Performance Analysis](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis.png)
+
+###  PowerBI Dashboard
 
