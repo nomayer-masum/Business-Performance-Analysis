@@ -36,13 +36,22 @@ exclusive deals, while encouraging upselling in রফিক জেনা
 - Provide additional support and incentives to Sajeeb Enterprise, the top department by order volume, to sustain 
 growth and improve order value.
 
-###  Excel Dashboard
-![Business Performance Analysis](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis.png)
+### Excel Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis.png" alt="Business Performance Analysis Excel Dashboard" width="800"/>
+</p>
 
-###  PowerBI Dashboard
-![Business Performance Analysis - Page 1](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0001.jpg)
+### Power BI Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0001.jpg" alt="Business Performance Analysis - Page 1" width="800"/>
+</p>
 
-![Business Performance Analysis - Page 2](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0002.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0002.jpg" alt="Business Performance Analysis - Page 2" width="800"/>
+</p>
 
-![Business Performance Analysis - Page 3](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0003.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0003.png" alt="Business Performance Analysis – Page 3" width="800"/>
+</p>
+
 
