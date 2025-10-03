@@ -1,4 +1,4 @@
-# Business Performance Analysis
+# Business Performance Analysis with Retail Data
 
 This repository presents a **Business Performance Analysis Dashboard** showcasing sales, product, and store performance insights.
 
