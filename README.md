@@ -40,4 +40,9 @@ growth and improve order value.
 ![Business Performance Analysis](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis.png)
 
 ###  PowerBI Dashboard
+![Business Performance Analysis - Page 1](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0001.jpg)
+
+![Business Performance Analysis - Page 2](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0002.jpg)
+
+![Business Performance Analysis - Page 3](https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0003.png)
 
