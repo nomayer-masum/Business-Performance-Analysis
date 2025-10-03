@@ -51,7 +51,7 @@ growth and improve order value.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0003.png" alt="Business Performance Analysis – Page 3" width="800"/>
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Business-Performance-Analysis/main/Business%20Performance%20Analysis_page-0003.jpg" alt="Business Performance Analysis – Page 3" width="800"/>
 </p>
 
 
