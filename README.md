@@ -8,7 +8,7 @@ This project analyzes sales and order data across multiple departments and store
 
 ## Data Source
 
-The dataset was prepared from business transaction records, including sales, orders, and product information across different stores and departments.
+Sokrio Technology 
 
 ## Analysis Tools
 
@@ -56,5 +56,5 @@ growth and improve order value.
 
 **Live Link: https://tinyurl.com/yuft3dpv**
 
-**Data Source: sokrio technology**
+
 
